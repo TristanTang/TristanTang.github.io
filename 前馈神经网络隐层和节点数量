@@ -1,9 +1,0 @@
-计算公式：Nh=Ns/(α∗(Ni+No))
-其中：
-  Ni: number of input neurons.
-  No: number of output neurons.
-  Ns: number of samples in training data set.
-  α: an arbitrary scaling factor usually 2-10
-  这样的计算方式不会导致过拟合现象
-  
-
